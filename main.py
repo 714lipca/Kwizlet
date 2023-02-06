@@ -4,7 +4,7 @@ import random
 class FlashcardApp:
     def __init__(self, master):
         self.master = master
-        self.master.title("K")
+        self.master.title("Kwizlet")
 
         # Load the data from a file
         self.flashcards = []

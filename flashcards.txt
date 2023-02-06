@@ -6,7 +6,6 @@ alphabets,alfabety
 caves,jaskinie
 papyrus,papirus
 another,inny
-
 indicates,wskazuje
 transported,przewieziony
 writing,pismo
